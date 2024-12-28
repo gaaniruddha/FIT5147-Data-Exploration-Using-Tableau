@@ -1,8 +1,8 @@
 **Programming Exercise using Tableau: Coral Bleaching data**
 - unclean final.xlsx: Starting dataset
 - 30945305_Programming Exercise.pdf: All the steps followed in data wrangling, data exploration, error identification and analysis using Tableau have been documented here.
-- Book3_Error_Identifications.twb: Tableau visualisations for Task 2 
-- Book2_Error_Corrections_Questions.twb: Tableau visualisations for Task 3
+- Task2_error_identifications.twb: Tableau visualisations for Task 2 
+- Task3_error_corrections_questions.twb: Tableau visualisations for Task 3
 
 **Tasks performed:**
 1. Cleaning of starting dataset to make it into a format that can be used to visualize the data properly.
