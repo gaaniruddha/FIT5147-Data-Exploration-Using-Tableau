@@ -8,7 +8,7 @@
 1. Cleaning of starting dataset to make it into a format that can be used to visualize the data properly.
 2. Error identification using Tableau visualisations.
 3. Analysing two questions:
-     a) In which years and for which kinds of coral is bleaching the worst?
-     b) How does the location of the site affect bleaching of the different kinds of corals?
+   1. In which years and for which kinds of coral is bleaching the worst?
+   2. How does the location of the site affect bleaching of the different kinds of corals?
 
 **Tools used:** Tableau, MS Excel. 
